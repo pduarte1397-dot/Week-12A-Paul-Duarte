@@ -12,9 +12,10 @@
       "prep": {
         "repo": "https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte",
         "gitTest": "What I have done is click GitHub backup choose certain repository's and choose https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte and click backup now. ",
-        "access": "My Git Hub is showing red and green on my files N development-road, work.json, and prefs.json. "
+        "access": "My Git Hub is showing red and green on my files amd shows my development-road, work.json, and prefs.json. ",
+        "video1": "Mindset: I will  "
       },
-      "currentPage": 10
+      "currentPage": 11
     },
     "receipts": [],
     "clocks": [
@@ -36,14 +37,15 @@
     "prep": {
       "repo": "https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte",
       "gitTest": "What I have done is click GitHub backup choose certain repository's and choose https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte and click backup now. ",
-      "access": "My Git Hub is showing red and green on my files N development-road, work.json, and prefs.json. "
+      "access": "My Git Hub is showing red and green on my files amd shows my development-road, work.json, and prefs.json. ",
+      "video1": "Mindset: I will  "
     },
-    "currentPage": 10
+    "currentPage": 11
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 10,
+    "lastPage": 11,
     "timerMinutes": 10
   }
 }
