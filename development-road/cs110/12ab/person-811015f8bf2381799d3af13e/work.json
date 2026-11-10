@@ -7,6 +7,7 @@
       "id": "PERSON-811015F8BF2381799D3AF13E",
       "name": "Paul Duarte",
       "prep": "PREP-A75825354721E7945AE5BF89",
+      "pitch": "FORM-D550425B3B8B37505181A5FB",
       "verificationCode": "VIEW-D6229C41CDF9D72898103AD1"
     },
     "draft": {
@@ -23,7 +24,7 @@
         "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.    ",
         "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.  "
       },
-      "currentPage": 25,
+      "currentPage": 27,
       "prepBoard": {
         "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
         "strokes": [],
@@ -107,12 +108,18 @@
         "offer": "I feel as I bring logic to my team and I ask questions on what seems confusing and we get a better understanding of what we need to do I also feel like I make sure that we are all on task. ",
         "limits": "I need to learn is a certain mindset that doesn't requires me to freak out when stressed. ",
         "availability": "\nPreferred contact: Text\nyou can reach me by my phone number and let me know what I need to add. ",
-        "tools": "I use Ai as a partner to make sure that my work is not wrong "
+        "tools": "I use Ai as a partner to make sure that my work is not wrong.",
+        "aiTool": "AI: ChatGPT\nTask: It will double check my work incase. \nVerification: By having a history inputs of its action. "
       },
       "availability": {
         "notes": "you can reach me by my phone number and let me know what I need to add. ",
         "contact": "Text",
         "slots": []
+      },
+      "aiPlan": {
+        "name": "ChatGPT",
+        "task": "It will double check my work incase. ",
+        "verify": "By having a history inputs of its action. "
       }
     },
     "receipts": [
@@ -215,6 +222,28 @@
           }
         },
         "digest": "2bad860707fa796915c358c0062dd955761df441e064e55b5db9cdf9c919f332"
+      },
+      {
+        "verificationCode": "VIEW-D6229C41CDF9D72898103AD1",
+        "code": "FORM-D550425B3B8B37505181A5FB",
+        "kind": "pitch",
+        "name": "Paul Duarte",
+        "person": "PERSON-811015F8BF2381799D3AF13E",
+        "issued": "2026-11-10T23:24:45.610Z",
+        "data": {
+          "understand": "What I understand is that is that the work is that the process I have to have a mindset of someone who is going to work hard pull my own weight put things in the right place and do it right. The finish line is complete the work and my teammates also do that and feel accomplished.",
+          "offer": "I feel as I bring logic to my team and I ask questions on what seems confusing and we get a better understanding of what we need to do I also feel like I make sure that we are all on task.",
+          "limits": "I need to learn is a certain mindset that doesn't requires me to freak out when stressed.",
+          "availability": "Preferred contact: Text\nyou can reach me by my phone number and let me know what I need to add.",
+          "tools": "I use Ai as a partner to make sure that my work is not wrong.",
+          "aiTool": "AI: ChatGPT\nTask: It will double check my work incase. \nVerification: By having a history inputs of its action.",
+          "ai": {
+            "name": "ChatGPT",
+            "task": "It will double check my work incase.",
+            "verify": "By having a history inputs of its action."
+          }
+        },
+        "digest": "c2d0cbbeccfac05686612a0efae3efa9fb2c498d7ea37630ba1c570b1752deb7"
       }
     ],
     "clocks": [
@@ -246,7 +275,7 @@
       "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.    ",
       "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.  "
     },
-    "currentPage": 25,
+    "currentPage": 27,
     "prepBoard": {
       "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
       "strokes": [],
@@ -330,18 +359,24 @@
       "offer": "I feel as I bring logic to my team and I ask questions on what seems confusing and we get a better understanding of what we need to do I also feel like I make sure that we are all on task. ",
       "limits": "I need to learn is a certain mindset that doesn't requires me to freak out when stressed. ",
       "availability": "\nPreferred contact: Text\nyou can reach me by my phone number and let me know what I need to add. ",
-      "tools": "I use Ai as a partner to make sure that my work is not wrong "
+      "tools": "I use Ai as a partner to make sure that my work is not wrong.",
+      "aiTool": "AI: ChatGPT\nTask: It will double check my work incase. \nVerification: By having a history inputs of its action. "
     },
     "availability": {
       "notes": "you can reach me by my phone number and let me know what I need to add. ",
       "contact": "Text",
       "slots": []
+    },
+    "aiPlan": {
+      "name": "ChatGPT",
+      "task": "It will double check my work incase. ",
+      "verify": "By having a history inputs of its action. "
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 25,
+    "lastPage": 27,
     "timerMinutes": 10
   }
 }
