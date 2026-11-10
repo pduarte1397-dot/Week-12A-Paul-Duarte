@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-811015F8BF2381799D3AF13E",
+      "name": "Paul Duarte",
+      "verificationCode": "VIEW-D6229C41CDF9D72898103AD1"
+    },
+    "draft": {
+      "prep": {
+        "repo": "https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte"
+      },
+      "currentPage": 9
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-EB56D0EBBF2FE04C99E154A7",
+        "name": "Paul Duarte",
+        "day": "A",
+        "arrival": "2026-11-10T21:04:26.730Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 15,
+        "deduction": 15,
+        "status": "Calculated · awaiting instructor review"
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte"
+    },
+    "currentPage": 9
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 9,
+    "timerMinutes": 10
+  }
+}
