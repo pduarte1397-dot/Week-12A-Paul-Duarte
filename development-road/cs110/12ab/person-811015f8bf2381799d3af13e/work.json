@@ -122,7 +122,8 @@
         "verify": "By having a history inputs of its action. "
       },
       "huddle": {
-        "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. "
+        "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. ",
+        "framework": "Me "
       }
     },
     "receipts": [
@@ -455,7 +456,8 @@
       "verify": "By having a history inputs of its action. "
     },
     "huddle": {
-      "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. "
+      "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. ",
+      "framework": "Me "
     }
   },
   "prefs": {
