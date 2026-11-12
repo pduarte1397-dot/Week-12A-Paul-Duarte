@@ -24,7 +24,7 @@
         "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.    ",
         "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.  "
       },
-      "currentPage": 39,
+      "currentPage": 41,
       "prepBoard": {
         "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
         "strokes": [],
@@ -8640,7 +8640,11 @@
         "owners": true,
         "blockers": true
       },
-      "planRevision": 8
+      "planRevision": 8,
+      "reportA": {
+        "checkpoint": "Today, my team and I accomplished the foundation of our game development project. We decided on a plan/came up with what we want to create. We assigned tasks to each member and came up with a schedule that will keep us on track and ensure that we are all communicating throughout the entire process. We did the beginning stage, and now we need to continue to discuss what we want to do next and how we will achieve our goal.",
+        "evidence": "I made my own github where I made pdf for and sent them "
+      }
     },
     "receipts": [
       {
@@ -30713,7 +30717,7 @@
       "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.    ",
       "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.  "
     },
-    "currentPage": 39,
+    "currentPage": 41,
     "prepBoard": {
       "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
       "strokes": [],
@@ -39329,12 +39333,16 @@
       "owners": true,
       "blockers": true
     },
-    "planRevision": 8
+    "planRevision": 8,
+    "reportA": {
+      "checkpoint": "Today, my team and I accomplished the foundation of our game development project. We decided on a plan/came up with what we want to create. We assigned tasks to each member and came up with a schedule that will keep us on track and ensure that we are all communicating throughout the entire process. We did the beginning stage, and now we need to continue to discuss what we want to do next and how we will achieve our goal.",
+      "evidence": "I made my own github where I made pdf for and sent them "
+    }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 39,
+    "lastPage": 41,
     "timerMinutes": 10
   }
 }
