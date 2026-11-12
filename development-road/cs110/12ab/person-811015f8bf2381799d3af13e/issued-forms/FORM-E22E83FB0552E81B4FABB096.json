@@ -1,0 +1,22 @@
+{
+  "verificationCode": "VIEW-D6229C41CDF9D72898103AD1",
+  "code": "FORM-E22E83FB0552E81B4FABB096",
+  "kind": "pitch",
+  "name": "Paul Duarte",
+  "person": "PERSON-811015F8BF2381799D3AF13E",
+  "issued": "2026-11-12T02:20:58.443Z",
+  "data": {
+    "understand": "What I understand is that is that the work is that the process I have to have a mindset of someone who is going to work hard pull my own weight put things in the right place and do it right. The finish line is complete the work and my teammates also do that and feel accomplished.",
+    "offer": "I feel as I bring logic to my team and I ask questions on what seems confusing and we get a better understanding of what we need to do I also feel like I make sure that we are all on task.",
+    "limits": "I need to learn is a certain mindset that doesn't requires me to freak out when stressed.",
+    "availability": "Preferred contact: Text\nyou can reach me by my phone number and let me know what I need to add.",
+    "tools": "I use Ai as a partner to make sure that my work is not wrong.",
+    "aiTool": "AI: ChatGPT\nTask: It will double check my work incase. \nVerification: By having a history inputs of its action.",
+    "ai": {
+      "name": "ChatGPT",
+      "task": "It will double check my work incase.",
+      "verify": "By having a history inputs of its action."
+    }
+  },
+  "digest": "fae9ea6ec71c1b8247c9c73321f1babc02774d215f2400dcade8694eef3c6fa0"
+}
