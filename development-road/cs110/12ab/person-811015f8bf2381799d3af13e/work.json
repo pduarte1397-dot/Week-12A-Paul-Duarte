@@ -123,7 +123,15 @@
       },
       "huddle": {
         "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. ",
-        "framework": "Paul, Mio, Johnthan, Isaias, Daniel.   "
+        "framework": "Paul, Mio, Johnthan, Isaias, Daniel.   ",
+        "pipeline": "\nresults- We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft and Pokemon "
+      },
+      "pipelineBoard": {
+        "notes": "results- We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft and Pokemon ",
+        "strokes": [],
+        "images": [],
+        "nodes": [],
+        "edges": []
       }
     },
     "receipts": [
@@ -457,7 +465,15 @@
     },
     "huddle": {
       "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. ",
-      "framework": "Paul, Mio, Johnthan, Isaias, Daniel.   "
+      "framework": "Paul, Mio, Johnthan, Isaias, Daniel.   ",
+      "pipeline": "\nresults- We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft and Pokemon "
+    },
+    "pipelineBoard": {
+      "notes": "results- We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft and Pokemon ",
+      "strokes": [],
+      "images": [],
+      "nodes": [],
+      "edges": []
     }
   },
   "prefs": {
