@@ -26395,6 +26395,22 @@
                 "restoredPoints": 0,
                 "approvedAt": null
               }
+            },
+            {
+              "code": "TIME-5A9039592BE6FE4AA640925B",
+              "name": "Jonathan Pacheco",
+              "day": "B",
+              "arrival": "2026-11-12T20:59:15.182Z",
+              "start": "2026-11-12T20:45:00Z",
+              "calculated": 10,
+              "deduction": 10,
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         },
