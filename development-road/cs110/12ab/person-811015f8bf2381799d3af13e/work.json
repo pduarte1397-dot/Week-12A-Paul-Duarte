@@ -24,7 +24,7 @@
         "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.    ",
         "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.  "
       },
-      "currentPage": 38,
+      "currentPage": 20,
       "prepBoard": {
         "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
         "strokes": [],
@@ -6760,9 +6760,9 @@
       "tasks": [
         {
           "id": "2f1ea3bc-bfc4-4ba5-86d8-93fac81e09ba",
-          "task": "",
+          "task": "test the results ",
           "owner": "PERSON-811015F8BF2381799D3AF13E",
-          "due": "2026-11-12T20:30",
+          "due": "",
           "done": false,
           "result": ""
         }
@@ -7000,7 +7000,7 @@
       "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.    ",
       "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.  "
     },
-    "currentPage": 38,
+    "currentPage": 20,
     "prepBoard": {
       "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
       "strokes": [],
@@ -13736,9 +13736,9 @@
     "tasks": [
       {
         "id": "2f1ea3bc-bfc4-4ba5-86d8-93fac81e09ba",
-        "task": "",
+        "task": "test the results ",
         "owner": "PERSON-811015F8BF2381799D3AF13E",
-        "due": "2026-11-12T20:30",
+        "due": "",
         "done": false,
         "result": ""
       }
@@ -13747,7 +13747,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 38,
+    "lastPage": 20,
     "timerMinutes": 10
   }
 }
