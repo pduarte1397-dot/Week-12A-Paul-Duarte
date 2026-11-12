@@ -26361,7 +26361,13 @@
         "start": "2026-11-10T20:45:00Z",
         "calculated": 15,
         "deduction": 15,
-        "status": "Calculated · awaiting instructor review"
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
       }
     ],
     "team": {
@@ -26382,7 +26388,13 @@
               "start": "2026-11-10T20:45:00Z",
               "calculated": 10,
               "deduction": 10,
-              "status": "Calculated · awaiting instructor review"
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         },
@@ -26399,7 +26411,29 @@
               "start": "2026-11-10T20:45:00Z",
               "calculated": 15,
               "deduction": 15,
-              "status": "Calculated · awaiting instructor review"
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
+            },
+            {
+              "code": "TIME-94673E74815B53291DAADE6A",
+              "name": "Daniel P",
+              "day": "B",
+              "arrival": "2026-11-12T20:46:56.676Z",
+              "start": "2026-11-12T20:45:00Z",
+              "calculated": 0,
+              "deduction": 0,
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         },
@@ -26416,7 +26450,13 @@
               "start": "2026-11-10T20:45:00Z",
               "calculated": 15,
               "deduction": 15,
-              "status": "Calculated · awaiting instructor review"
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         },
@@ -26433,7 +26473,13 @@
               "start": "2026-11-10T20:45:00Z",
               "calculated": 15,
               "deduction": 15,
-              "status": "Calculated · awaiting instructor review"
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         }
