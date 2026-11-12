@@ -1,0 +1,100 @@
+{
+  "verificationCode": "VIEW-D6229C41CDF9D72898103AD1",
+  "code": "PREP-C0059638ED12F077299C8876",
+  "kind": "prep",
+  "name": "Paul Duarte",
+  "person": "PERSON-811015F8BF2381799D3AF13E",
+  "issued": "2026-11-12T02:22:56.159Z",
+  "data": {
+    "repo": "https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte",
+    "gitTest": "What I have done is click GitHub backup choose certain repository's and choose https://github.com/pduarte1397-dot/Week-12A-Paul-Duarte and click backup now.",
+    "access": "My Git Hub is showing red and green on my files amd shows my development-road, work.json, and prefs.json.",
+    "video1": "Mindset: How do you stay focused on game development with you as a person needs to have a growth mindset \nFolder structure: know the importance of a solid folder structure and how you need to organize your folders when you are making  game.  \nDocumentations: You need documentations for game development since it is very important and why it is also how to make documentations. \nThe Game, assets, and recourse: You need the game itself is downloading the assets with the text editors photo editors.",
+    "video2": "I have observed about mindset, is creativity and innovation you need these quality's in order to be a truly accomplishes what you want to do as a game developer. I have also observed that customer focus is forgot a lot in these game developer minds and forget this game is for the people. How to developer a growth mindset I have observed that you need to seek challenges you will grow instead of staying the same not growing as a developer. How to develop a growth mindset you need to keep learning is what I have observed because it is a step in gaining a growth mindset.",
+    "video3": "I have seen observed that folders are the best way for collaboration with not only your team but other sources like an Ai. Folder structure needs names that fit with what is being worked on. I have also observed to create a new folder is Ctrl + Shift + N a very useful tool to know. Another useful tool is that windows it keeps the times of our work. I have decided that folder structure is the best way to do work with your team to know what we are working on and what we need to do. I have also figured out that Talstra folder maker is the best way to keep your folder.",
+    "video4": "I have observed that a document should have everyone's name and their purpose also have our resources installment names also in the documents. It is also best to clean up all your work so that it makes sense and not confusing.  I have also observed that the read me are for knowing what the file is for.",
+    "video5": "I have observed is when you have downloaded Unity you click new game you give it a name you make sure that you put it in the right folder. An easy way to find the right folder is to copy it and paste it in the folder.",
+    "video6": "I have observed that you can use between 2D or 3D in Unity you can download your own characters and put it in Unity by dragging it in Unity. I have question how many characters in Unity and do certain characters cost money.",
+    "opinion": "I would need to have the mindset of achieving what I want to do in my game and how I want to do it. I would use Talstra for my folders and my teams folders. I would have my documentation of my work what time I did it what is the purpose of my documents. I would use Unity to start creating my game figuring it out what I need to put in the game engine to create what I want to do in my game. I also download the characters I want in my game.",
+    "questions": "My question is how is Tastra better than other folder carriers like windows or other folder website. Like is it more simpler or easier to save my work and my teammates work.",
+    "board": {
+      "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
+      "strokes": [],
+      "images": [],
+      "nodes": [
+        {
+          "id": "e0627c5f-aba4-4784-9255-32a6d5ed71cb",
+          "kind": "text",
+          "x": 0.2883356229965447,
+          "y": 0.029969428309385496,
+          "w": 0.3830768910536614,
+          "h": 0.3528159306300548,
+          "color": "#153f48",
+          "text": "Mindset ->folder->Documentation "
+        },
+        {
+          "id": "2fc166c3-b94f-470f-b2cf-77de9d9fef84",
+          "kind": "text",
+          "x": 0.2856712876233296,
+          "y": 0.01218226286095439,
+          "w": 0.04,
+          "h": 0.04,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "e781f29e-b848-486a-af0e-6b341e7fbf09",
+          "kind": "text",
+          "x": 0.2909999583697598,
+          "y": 0.22384953169728466,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "a37fe28e-a4e9-46ad-9f9a-cd364c90225e",
+          "kind": "text",
+          "x": 0.2656887723242163,
+          "y": 0.2167346655179122,
+          "w": 0.26984263769201955,
+          "h": 0.07,
+          "color": "#153f48",
+          "text": "->intro to Unity"
+        },
+        {
+          "id": "5522cdf5-8dbe-4eb9-9a43-1462037cbba0",
+          "kind": "text",
+          "x": 0.39624120561175635,
+          "y": 0.1829390511658931,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "1f186830-985a-41cd-882c-9dc5c01ceda6",
+          "kind": "text",
+          "x": 0.4788356021814246,
+          "y": 0.22740696478697087,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "253d00d7-6399-4bd3-89ef-59e63f81bba9",
+          "kind": "text",
+          "x": 0.4175558885974774,
+          "y": 0.17823295628248237,
+          "w": 0.2725069730652345,
+          "h": 0.15004224451794002,
+          "color": "#153f48",
+          "text": "->Import characters "
+        }
+      ],
+      "edges": []
+    }
+  },
+  "digest": "cb9a3f152d7afbeb47977bddb7744c1dd49e0dc1cea935fdd426d3073b58c95c"
+}

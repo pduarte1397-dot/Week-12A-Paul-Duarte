@@ -1,0 +1,78 @@
+{
+  "notes": "Mindset is what you want to do and it is first in your head. Folder is where you keep the work at. Documentation where to put in is where is how we know what each person is supposed to do. Intro to unity is the game engine itself this is where we make the game and create it. Import characters is where we have costumes for our characters so that it matches what we want.   ",
+  "strokes": [],
+  "images": [],
+  "nodes": [
+    {
+      "id": "e0627c5f-aba4-4784-9255-32a6d5ed71cb",
+      "kind": "text",
+      "x": 0.2883356229965447,
+      "y": 0.029969428309385496,
+      "w": 0.3830768910536614,
+      "h": 0.3528159306300548,
+      "color": "#153f48",
+      "text": "Mindset ->folder->Documentation "
+    },
+    {
+      "id": "2fc166c3-b94f-470f-b2cf-77de9d9fef84",
+      "kind": "text",
+      "x": 0.2856712876233296,
+      "y": 0.01218226286095439,
+      "w": 0.04,
+      "h": 0.04,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "e781f29e-b848-486a-af0e-6b341e7fbf09",
+      "kind": "text",
+      "x": 0.2909999583697598,
+      "y": 0.22384953169728466,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "a37fe28e-a4e9-46ad-9f9a-cd364c90225e",
+      "kind": "text",
+      "x": 0.2656887723242163,
+      "y": 0.2167346655179122,
+      "w": 0.26984263769201955,
+      "h": 0.07,
+      "color": "#153f48",
+      "text": "->intro to Unity"
+    },
+    {
+      "id": "5522cdf5-8dbe-4eb9-9a43-1462037cbba0",
+      "kind": "text",
+      "x": 0.39624120561175635,
+      "y": 0.1829390511658931,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "1f186830-985a-41cd-882c-9dc5c01ceda6",
+      "kind": "text",
+      "x": 0.4788356021814246,
+      "y": 0.22740696478697087,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "253d00d7-6399-4bd3-89ef-59e63f81bba9",
+      "kind": "text",
+      "x": 0.4175558885974774,
+      "y": 0.17823295628248237,
+      "w": 0.2725069730652345,
+      "h": 0.15004224451794002,
+      "color": "#153f48",
+      "text": "->Import characters "
+    }
+  ],
+  "edges": []
+}
