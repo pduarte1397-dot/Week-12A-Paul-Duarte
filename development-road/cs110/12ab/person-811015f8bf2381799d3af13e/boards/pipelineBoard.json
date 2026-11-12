@@ -27,12 +27,110 @@
       "id": "dc218371-521b-448f-9c03-1c8ced836deb",
       "kind": "text",
       "x": 0.12763167553679575,
-      "y": 0.23260768581081082,
-      "w": 0.18,
-      "h": 0.14,
+      "y": 0.1725929054054054,
+      "w": 0.7011499816480088,
+      "h": 0.20001478040540543,
       "color": "#153f48",
-      "text": ""
+      "text": "Background->assist->build->output-> results "
+    },
+    {
+      "id": "58248f8e-99c9-465a-a59d-fe0ba31b228a",
+      "kind": "ellipse",
+      "x": 0.03,
+      "y": 0.29,
+      "w": 0.16,
+      "h": 0.17,
+      "text": "story ",
+      "color": "#175363",
+      "owner": "Jonathan ",
+      "start": "2026-11-10T12:45",
+      "end": "2026-11-10T13:45"
+    },
+    {
+      "id": "5a8aaaeb-92b2-4025-8d1f-05f5238d416a",
+      "kind": "rect",
+      "x": 0.225,
+      "y": 0.29,
+      "w": 0.16,
+      "h": 0.17,
+      "text": "Inputs / assets",
+      "color": "#175363",
+      "owner": "Mio",
+      "start": "2026-11-10T13:45",
+      "end": "2026-11-10T14:45"
+    },
+    {
+      "id": "97405bf0-5410-4c17-9aaf-cf08f653ec31",
+      "kind": "rect",
+      "x": 0.42000000000000004,
+      "y": 0.29,
+      "w": 0.16,
+      "h": 0.17,
+      "text": "Build + configure",
+      "color": "#175363",
+      "owner": "Isaias ",
+      "start": "2026-11-10T14:45",
+      "end": "2026-11-10T15:45"
+    },
+    {
+      "id": "46ef4666-5e6e-4e8a-b3a8-c3f71c521381",
+      "kind": "rect",
+      "x": 0.615,
+      "y": 0.29,
+      "w": 0.16,
+      "h": 0.17,
+      "text": "Output / scene",
+      "color": "#175363",
+      "owner": "Daniel ",
+      "start": "2026-11-10T15:45",
+      "end": "2026-11-10T16:45"
+    },
+    {
+      "id": "b81c2ba8-d5b0-4874-affe-4d45e8334161",
+      "kind": "ellipse",
+      "x": 0.81,
+      "y": 0.29,
+      "w": 0.16,
+      "h": 0.17,
+      "text": "Test + handoff",
+      "color": "#175363",
+      "owner": "Paul",
+      "start": "2026-11-10T16:45",
+      "end": "2026-11-10T17:45"
     }
   ],
-  "edges": []
+  "edges": [
+    {
+      "id": "d87e8d66-627d-4396-ba20-ad14a36e3468",
+      "from": "58248f8e-99c9-465a-a59d-fe0ba31b228a",
+      "fromPort": "e",
+      "to": "5a8aaaeb-92b2-4025-8d1f-05f5238d416a",
+      "toPort": "w",
+      "color": "#175363"
+    },
+    {
+      "id": "af4f880d-5f78-4b2c-a68d-3574ba4a0bd5",
+      "from": "5a8aaaeb-92b2-4025-8d1f-05f5238d416a",
+      "fromPort": "e",
+      "to": "97405bf0-5410-4c17-9aaf-cf08f653ec31",
+      "toPort": "w",
+      "color": "#175363"
+    },
+    {
+      "id": "1ed11aaa-f435-4583-a925-c8e585cfcb7f",
+      "from": "97405bf0-5410-4c17-9aaf-cf08f653ec31",
+      "fromPort": "e",
+      "to": "46ef4666-5e6e-4e8a-b3a8-c3f71c521381",
+      "toPort": "w",
+      "color": "#175363"
+    },
+    {
+      "id": "68b52e61-3f96-4232-a9b7-c0fc9f3ec649",
+      "from": "46ef4666-5e6e-4e8a-b3a8-c3f71c521381",
+      "fromPort": "e",
+      "to": "b81c2ba8-d5b0-4874-affe-4d45e8334161",
+      "toPort": "w",
+      "color": "#175363"
+    }
+  ]
 }
