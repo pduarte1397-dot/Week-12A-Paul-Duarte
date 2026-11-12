@@ -8670,8 +8670,14 @@
       "taskResults": {
         "ce0efaf1-e575-48a0-b9ea-6ec5f7de7345": {
           "done": true,
-          "result": "I was in Untiy "
+          "result": "I was in Unity we tried to make a Minecraft in Unity we were struggling to find the perfect build for "
         }
+      },
+      "reportB": {
+        "execution": "khkl",
+        "tests": "CS110 Action 12A\nName: Paul Duarte\nPersonal verification code: VIEW-D6229C41CDF9D72898103AD1\nRead-only record: https://courses.addp2p.com/development-road/independence/index.html?view=verify&code=VIEW-D6229C41CDF9D72898103AD1",
+        "handoff": "CS110 Action 12A\nName: Paul Duarte\nPersonal verification code: VIEW-D6229C41CDF9D72898103AD1\nRead-only record: https://courses.addp2p.com/development-road/independence/index.html?view=verify&code=VIEW-D6229C41CDF9D72898103AD1",
+        "reflection": "CS110 Action 12A\nName: Paul Duarte\nPersonal verification code: VIEW-D6229C41CDF9D72898103AD1\nRead-only record: https://courses.addp2p.com/development-road/independence/index.html?view=verify&code=VIEW-D6229C41CDF9D72898103AD1"
       }
     },
     "receipts": [
@@ -39838,7 +39844,7 @@
         }
       ],
       "invites": [],
-      "revision": 11,
+      "revision": 17,
       "plan": {
         "mission": "a story we want to see is a minecraft mod with aspects of pokemon. a playable goal is to be to throw a pokeball at a minecraft mod",
         "framework": "my team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
@@ -44099,7 +44105,7 @@
           "owner": "PERSON-32DB4A42A2AF226E95A2B700",
           "due": "2026-11-12T20:30",
           "done": false,
-          "result": ""
+          "result": "i made the unity scene messed with the fbx file on the thing then i worked with text document and made a log to keep track of my work and my ideas that i will share with the team"
         },
         {
           "id": "beb67b75-0e4d-4bf1-84bf-f4ae0e218857",
@@ -44122,8 +44128,8 @@
           "task": "help build hello world",
           "owner": "PERSON-A810520A6425EF242595EF4D",
           "due": "2026-11-12T20:30",
-          "done": false,
-          "result": ""
+          "done": true,
+          "result": "What we did was to make the flat world for our project named craftmon"
         }
       ],
       "form": "FORM-45BB65BC77CE9BCDC045F54E"
@@ -52790,8 +52796,14 @@
     "taskResults": {
       "ce0efaf1-e575-48a0-b9ea-6ec5f7de7345": {
         "done": true,
-        "result": "I was in Untiy "
+        "result": "I was in Unity we tried to make a Minecraft in Unity we were struggling to find the perfect build for "
       }
+    },
+    "reportB": {
+      "execution": "khkl",
+      "tests": "CS110 Action 12A\nName: Paul Duarte\nPersonal verification code: VIEW-D6229C41CDF9D72898103AD1\nRead-only record: https://courses.addp2p.com/development-road/independence/index.html?view=verify&code=VIEW-D6229C41CDF9D72898103AD1",
+      "handoff": "CS110 Action 12A\nName: Paul Duarte\nPersonal verification code: VIEW-D6229C41CDF9D72898103AD1\nRead-only record: https://courses.addp2p.com/development-road/independence/index.html?view=verify&code=VIEW-D6229C41CDF9D72898103AD1",
+      "reflection": "CS110 Action 12A\nName: Paul Duarte\nPersonal verification code: VIEW-D6229C41CDF9D72898103AD1\nRead-only record: https://courses.addp2p.com/development-road/independence/index.html?view=verify&code=VIEW-D6229C41CDF9D72898103AD1"
     }
   },
   "prefs": {
