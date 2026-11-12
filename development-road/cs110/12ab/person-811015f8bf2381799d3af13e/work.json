@@ -125,7 +125,8 @@
         "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. ",
         "framework": "Paul, Mio, Johnthan, Isaias, Daniel.   ",
         "pipeline": "Unnamed stage\nUnnamed stage\nBackground->assist->build->output-> results \nstory  · owner Jonathan  · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · owner Mio · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · owner Isaias  · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · owner Daniel  · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · owner Paul · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nBackground: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
-        "tech": "My team has agreed on Unity, C#, Unity Hub, package manager, We chose this because this well give us the results we are looking for a mod. "
+        "tech": "My team has agreed on Unity, C#, Unity Hub, package manager, We chose this because this well give us the results we are looking for a mod. We also have the most experience with Unity we understand it.  ",
+        "code": "Classes & components\nClass | Responsibility | GameObject\n |  | "
       },
       "pipelineBoard": {
         "notes": "Background: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
@@ -262,7 +263,34 @@
             "color": "#175363"
           }
         ]
-      }
+      },
+      "codeTables": [
+        {
+          "id": "f2f3d9ce-cedb-42f6-9eb6-28f41e795a33",
+          "title": "Classes & components",
+          "columns": [
+            {
+              "label": "Class",
+              "type": "text"
+            },
+            {
+              "label": "Responsibility",
+              "type": "text"
+            },
+            {
+              "label": "GameObject",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ]
     },
     "receipts": [
       {
@@ -597,7 +625,8 @@
       "mission": "A story I want to see is a Minecraft mod a playable goal is to throw a poke-ball  at a Minecraft mod. ",
       "framework": "Paul, Mio, Johnthan, Isaias, Daniel.   ",
       "pipeline": "Unnamed stage\nUnnamed stage\nBackground->assist->build->output-> results \nstory  · owner Jonathan  · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · owner Mio · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · owner Isaias  · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · owner Daniel  · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · owner Paul · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nBackground: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
-      "tech": "My team has agreed on Unity, C#, Unity Hub, package manager, We chose this because this well give us the results we are looking for a mod. "
+      "tech": "My team has agreed on Unity, C#, Unity Hub, package manager, We chose this because this well give us the results we are looking for a mod. We also have the most experience with Unity we understand it.  ",
+      "code": "Classes & components\nClass | Responsibility | GameObject\n |  | "
     },
     "pipelineBoard": {
       "notes": "Background: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
@@ -734,7 +763,34 @@
           "color": "#175363"
         }
       ]
-    }
+    },
+    "codeTables": [
+      {
+        "id": "f2f3d9ce-cedb-42f6-9eb6-28f41e795a33",
+        "title": "Classes & components",
+        "columns": [
+          {
+            "label": "Class",
+            "type": "text"
+          },
+          {
+            "label": "Responsibility",
+            "type": "text"
+          },
+          {
+            "label": "GameObject",
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   "prefs": {
     "schemaVersion": 1,
